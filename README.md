@@ -8,7 +8,10 @@
 </ul>
 
 <h4>Imagens do Projeto:</h4>
-<img src=""/>
+<img src="https://uploaddeimagens.com.br/images/004/806/656/full/thumbnail.png?1719721117"/>
+<img src="https://uploaddeimagens.com.br/images/004/806/657/full/thumbnail.png?1719721303"/>
+<img src="https://uploaddeimagens.com.br/images/004/806/659/full/thumbnail.png?1719721393"/>
+<img src="https://uploaddeimagens.com.br/images/004/806/660/full/thumbnail.png?1719721463"/>
 
 <h4>Live Demo:</h4>
 <a href="https://technews-hxey.onrender.com/">Live Demo</a>
