@@ -22,11 +22,8 @@
 
 <h3>Dependências do Projeto:</h3>
 <ul>
-  <li>npm install firebase@8</li>
-  <li>npm install react-router-dom</li>
-  <li>npm install react-toastify</li>
+  <li>npm install mongoose@6.10.0</li>
 </ul>
-
 
 <h4>Atualização:</h4>
 <ul>
